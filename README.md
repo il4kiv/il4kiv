@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrew
+Hi 
 =======================
 
 Student

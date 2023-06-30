@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in Bratislava
-* 🖥️  See my portfolio at [My CV]()
+
 * ✉️  You can contact me at [il4kiv@gmail.com](mailto:il4kiv@gmail.com)
 
 ### Skills
